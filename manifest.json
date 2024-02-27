@@ -1,5 +1,5 @@
 {
-  "name": "PhotoFoundry: Batch Photo Editor for Mac",
+  "name": "Web2Mac: Turn any website into a Mac app",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -38,7 +38,7 @@
       "density": "4.0"
     }
   ],
-  "short_name": "PhotoFoundry",
+  "short_name": "Web2Mac",
   "description": "Professional-quality conversion and batch-processing of photos and images from your Mac",
   "start_url": "/",
   "display": "standalone"
