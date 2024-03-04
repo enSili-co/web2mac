@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .light-bg {
-  background-color: #e8f2f1 !important;
+  background-color: #ddddff !important;
 }
 
 .navbar-brand {
@@ -43,7 +43,7 @@ body {
 }
 
 a {
-  color: #c5dedc;
+  color: #cddefb;
 }
 
 a:hover,
@@ -90,7 +90,7 @@ p {
 }
 
 p.lead {
-  color: #c5dedc;
+  color: #cddefb;
   margin-bottom: 2rem;
 }
 
@@ -597,7 +597,7 @@ header {
 
 .social-icons a:hover {
   text-decoration: none;
-  color: #c5dedc;
+  color: #cddefb;
 }
 
 @media (max-width: 991px) {
