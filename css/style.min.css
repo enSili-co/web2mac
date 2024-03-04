@@ -48,7 +48,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #64a6a2;
+  color: #709ff2;
 }
 
 h1 {
@@ -116,7 +116,7 @@ p.lead {
 
 .btn-primary {
   border-radius: 3px;
-  background-color: #64a6a2;
+  background-color: #709ff2;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
   font-weight: 500;
   padding: 0.6rem 2rem;
@@ -129,7 +129,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: #589995;
+  background-color: #588ff0;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
   color: #FFF;
 }
@@ -230,10 +230,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #000 0%, #64a6a2 100%);
-  background-image: -webkit-linear-gradient(135deg, #000 0%, #64a6a2 100%);
-  background-image: -ms-linear-gradient(135deg, #000 0%, #64a6a2 100%);
-  background-image: linear-gradient(135deg, #000 0%, #64a6a2 100%);
+  background-image: -moz-linear-gradient(135deg, #000 0%, #417fee 100%);
+  background-image: -webkit-linear-gradient(135deg, #000 0%, #417fee 100%);
+  background-image: -ms-linear-gradient(135deg, #000 0%, #417fee 100%);
+  background-image: linear-gradient(135deg, #000 0%, #417fee 100%);
 }
 
 .tagline {
@@ -266,10 +266,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #4C8986;
-  background: -moz-linear-gradient(top, #4C8986 0%, #4C8986 100%);
-  background: -webkit-linear-gradient(top, #4C8986 0%, #4C8986 100%);
-  background: linear-gradient(to bottom, #4C8986 0%, #4C8986 100%);
+  color: #417fee;
+  background: -moz-linear-gradient(top, #1560e7 0%, #417fee 100%);
+  background: -webkit-linear-gradient(top, #1560e7 0%, #417fee 100%);
+  background: linear-gradient(to bottom, #1560e7 0%, #417fee 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -294,10 +294,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #4C8986;
-  background: -moz-linear-gradient(top, #4C8986 0%, #4C8986 100%);
-  background: -webkit-linear-gradient(top, #4C8986 0%, #4C8986 100%);
-  background: linear-gradient(to bottom, #4C8986 0%, #4C8986 100%);
+  color: #417fee;
+  background: -moz-linear-gradient(top, #1560e7 0%, #417fee 100%);
+  background: -webkit-linear-gradient(top, #1560e7 0%, #417fee 100%);
+  background: linear-gradient(to bottom, #1560e7 0%, #417fee 100%);
   top: 0;
   bottom: 0;
   left: 0;
@@ -331,7 +331,7 @@ header {
   border-radius: 50%;
   margin-bottom: 1.5rem;
   background-color: #FFF;
-  color: #64a6a2;
+  color: #709ff2;
   font-size: 48px;
   text-align: center;
   line-height: 80px;
@@ -348,7 +348,7 @@ header {
   }
 }
 .ui-steps li:hover .circle-icon {
-  background: #64a6a2;
+  background: #709ff2;
   box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.09);
   color: #FFF;
 }
