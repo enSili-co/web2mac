@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "Web2Mac",
-  "description": "Professional-quality conversion and batch-processing of photos and images from your Mac",
+  "description": "Any website can find its way into your dock, as a Mac app.",
   "start_url": "/",
   "display": "standalone"
 }
