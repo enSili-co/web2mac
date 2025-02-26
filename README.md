@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ 
+▶︎ https://ensili.co/download/web2mac/web2mac-1.3.zip
 
 # Official Website
 
-▶︎ https://web2mac.app
+▶︎ https://ensili.co/app/web2mac
 
 # Issues
 
