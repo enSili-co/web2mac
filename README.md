@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/web2mac/web2mac-1.3.zip
+▶︎ https://cdn.ensili.co/app/web2mac/download/web2mac-1.3.zip
 
 # Official Website
 
